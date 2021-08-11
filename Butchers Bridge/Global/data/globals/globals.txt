@@ -1665,31 +1665,31 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x6d275d78
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x5a150cc0
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x70276231
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x6f27609e
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x72276557
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x7427687d
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x712763c4
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x86603ccf
@@ -1701,19 +1701,19 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0xdd74df98
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xdf74e2be
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xe274e777
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xe474ea9d
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xe3a11b7f
@@ -1849,7 +1849,7 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x68d9c1c9
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xbdb9d172
@@ -1873,99 +1873,99 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x81cdf930
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x83cdfc56
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x31c9f9d8
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x34c9fe91
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x84cdfde9
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xfdc69d3b
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xfec69ece
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x86ce010f
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x85cdff7c
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x88ce0435
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xffc6a061
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x00c6a1f4
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x932eacfc
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x962eb1b5
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x912ea9d6
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x8f2ea6b0
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x922eab69
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x942eae8f
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xe074e451
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x66d9bea3
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x67d9c036
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xe174e5e4
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x69d9c35c
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0x6ad9c4ef
-                0xd81f2eaf: file = 0xee964e9b7496f774
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xc44ad212
@@ -2101,7 +2101,7 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x02c6a51a
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xb456fb04
@@ -2113,7 +2113,7 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x01c6a387
-                0xd81f2eaf: file = 0xd7068a27e14631d7
+                0xd81f2eaf: file = 0x1c1992db4b2d20f0
             }
             SponsoredBanner {
                 banner: link = 0xc24aceec
@@ -3102,59 +3102,59 @@ entries: map[hash,embed] = {
         0x25a63e0d: list[embed] = {
             SponsoredBanner {
                 banner: link = 0x87603e62
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x6d275d78
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x5a150cc0
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x70276231
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x6f27609e
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x72276557
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x7427687d
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x712763c4
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x86603ccf
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x40cd4089
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x27a796d9463ee2b6
             }
             SponsoredBanner {
                 banner: link = 0xdd74df98
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xdf74e2be
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xe274e777
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xe474ea9d
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xe3a11b7f
@@ -3222,15 +3222,15 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0xf4c3a0a7
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xf5c3a23a
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x3dcd3bd0
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x27a796d9463ee2b6
             }
             SponsoredBanner {
                 banner: link = 0xb173f751
@@ -3282,7 +3282,7 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x9a82f23d
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x0222c80fb16ae53d
             }
             SponsoredBanner {
                 banner: link = 0xbab9ccb9
@@ -3290,7 +3290,7 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x68d9c1c9
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xbdb9d172
@@ -3314,99 +3314,99 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x81cdf930
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x83cdfc56
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x31c9f9d8
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x34c9fe91
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x84cdfde9
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xfdc69d3b
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xfec69ece
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x86ce010f
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x85cdff7c
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x88ce0435
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xffc6a061
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x00c6a1f4
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x932eacfc
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x962eb1b5
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x912ea9d6
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x8f2ea6b0
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x922eab69
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x942eae8f
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xe074e451
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x66d9bea3
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x67d9c036
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xe174e5e4
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x69d9c35c
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0x6ad9c4ef
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xc44ad212
@@ -3426,11 +3426,11 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x3534a7ef
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x0222c80fb16ae53d
             }
             SponsoredBanner {
                 banner: link = 0xe0b75fa5
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x0222c80fb16ae53d
             }
             SponsoredBanner {
                 banner: link = 0x70a1ea71
@@ -3442,15 +3442,15 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0xb9179d82
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x27a796d9463ee2b6
             }
             SponsoredBanner {
                 banner: link = 0xb8179bef
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x27a796d9463ee2b6
             }
             SponsoredBanner {
                 banner: link = 0xba179f15
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x27a796d9463ee2b6
             }
             SponsoredBanner {
                 banner: link = 0xf4727407
@@ -3502,7 +3502,7 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0xa972fa59
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x0222c80fb16ae53d
             }
             SponsoredBanner {
                 banner: link = 0x2570b13a
@@ -3538,15 +3538,15 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x09bc1a06
-                0xd81f2eaf: file = 0x099092eb7dda2c33
-            }
-            SponsoredBanner {
-                banner: link = 0x02c6a51a
                 0xd81f2eaf: file = 0x0222c80fb16ae53d
             }
             SponsoredBanner {
+                banner: link = 0x02c6a51a
+                0xd81f2eaf: file = 0x289116a494a3f669
+            }
+            SponsoredBanner {
                 banner: link = 0xb456fb04
-                0xd81f2eaf: file = 0x099092eb7dda2c33
+                0xd81f2eaf: file = 0x0222c80fb16ae53d
             }
             SponsoredBanner {
                 banner: link = 0x3c1f24b7
@@ -3554,7 +3554,7 @@ entries: map[hash,embed] = {
             }
             SponsoredBanner {
                 banner: link = 0x01c6a387
-                0xd81f2eaf: file = 0x0222c80fb16ae53d
+                0xd81f2eaf: file = 0x289116a494a3f669
             }
             SponsoredBanner {
                 banner: link = 0xc24aceec
@@ -9806,13 +9806,6 @@ entries: map[hash,embed] = {
             "MapID(10)?MapSkin_TT_StarGuardian"
         }
     }
-    0x8fd83623 = GameMutatorExpansions {
-        mExpandedMutator: string = "Event_Sentinels2021_SpawnMusic"
-        mMutators: list2[string] = {
-            "SpawnThemeMusicOverride(Play_mus_map11_Sentinels2021_spawn)"
-            "MapID(11)?AudioFeature(Sentinels2021)"
-        }
-    }
     0x90e093f1 = GameMutatorExpansions {
         mExpandedMutator: string = "MemoryBudget"
         mMutators: list2[string] = {
@@ -9923,6 +9916,12 @@ entries: map[hash,embed] = {
     }
     0xae801362 = GameMutatorExpansions {
         mExpandedMutator: string = "Clash_Shurima"
+    }
+    0xaf4681e6 = GameMutatorExpansions {
+        mExpandedMutator: string = "MapSkin_TFT_MemoryBudget"
+        mMutators: list2[string] = {
+            "MapID(22)?MapSkinName(MemoryBudget)"
+        }
     }
     0xaf6a1ae8 = GameMutatorExpansions {
         mExpandedMutator: string = "Esports_Upcoming_Banners"
@@ -16887,6 +16886,7 @@ entries: map[hash,embed] = {
             0xd52647e8
             0x359bec10
             0xc087bac9
+            0x756016fb
         }
         mZombies: list[hash] = {
             0x6f9fdcdf
@@ -16894,7 +16894,6 @@ entries: map[hash,embed] = {
             0xa171d834
             0x3ca9c8f9
             0xee148ab2
-            0x756016fb
         }
     }
     "Globals/LiveFeatureToggles" = LiveFeatureToggles {
@@ -16907,6 +16906,7 @@ entries: map[hash,embed] = {
             0x3e3c2065: bool = true
             0x768400a9: bool = true
             0xab676340: bool = true
+            0xc4be5b2e: bool = true
         }
         mGameplayToggles: embed = GameplayFeatureToggles {
             fowCastRayAccurate: bool = true

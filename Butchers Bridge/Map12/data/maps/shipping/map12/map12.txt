@@ -574,7 +574,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Particles/ARAMHealthPack_hit_flash.PoroKing_9_24.dds"
+                texture: string = "ASSETS/Particles/ARAMHealthPack_hit_flash.dds"
             }
             VfxEmitterDefinitionData {
                 rate: embed = ValueFloat {
@@ -679,7 +679,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Particles/ARAMHealthPack_hit_flash.PoroKing_9_24.dds"
+                texture: string = "ASSETS/Particles/ARAMHealthPack_hit_flash.dds"
             }
             VfxEmitterDefinitionData {
                 timeBeforeFirstEmission: f32 = 0.200000003
@@ -1008,7 +1008,7 @@ entries: map[hash,embed] = {
                 }
                 primitive: pointer = VfxPrimitiveMesh {
                     mMesh: embed = VfxMeshDefinitionData {
-                        mSimpleMeshName: string = "ASSETS/Shared/Particles/ARAMHealthPack.PoroKing_9_24.scb"
+                        mSimpleMeshName: string = "ASSETS/Shared/Particles/ARAMHealthPack.scb"
                     }
                 }
                 blendMode: u8 = 3
@@ -1268,7 +1268,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Particles/ARAMHealthPack_4x4_Sparkle.PoroKing_9_24.DDS"
+                texture: string = "ASSETS/Particles/ARAMHealthPack_4x4_Sparkle.DDS"
                 numFrames: u16 = 4
                 texDiv: vec2 = { 2, 2 }
             }
@@ -1518,7 +1518,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Particles/ARAMHealthPack_4x4_Sparkle.PoroKing_9_24.DDS"
+                texture: string = "ASSETS/Particles/ARAMHealthPack_4x4_Sparkle.DDS"
                 numFrames: u16 = 4
                 texDiv: vec2 = { 2, 2 }
             }
@@ -5959,7 +5959,7 @@ entries: map[hash,embed] = {
                             }
                         }
                     }
-                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.PIE_C_9_24.dds"
+                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.dds"
                 }
                 particleIsLocalOrientation: flag = true
                 isUniformScale: flag = true
@@ -6227,7 +6227,7 @@ entries: map[hash,embed] = {
                             }
                         }
                     }
-                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.PIE_C_9_24.dds"
+                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.dds"
                 }
                 particleIsLocalOrientation: flag = true
                 isUniformScale: flag = true
@@ -6359,7 +6359,7 @@ entries: map[hash,embed] = {
                             }
                         }
                     }
-                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.PIE_C_9_24.dds"
+                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.dds"
                 }
                 isUniformScale: flag = true
                 isRandomStartFrame: flag = true
@@ -22408,7 +22408,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Particles/ARAMHealthPack_hit_flash.PoroKing_9_24.dds"
+                texture: string = "ASSETS/Particles/ARAMHealthPack_hit_flash.dds"
             }
             VfxEmitterDefinitionData {
                 rate: embed = ValueFloat {
@@ -22513,7 +22513,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Particles/ARAMHealthPack_hit_flash.PoroKing_9_24.dds"
+                texture: string = "ASSETS/Particles/ARAMHealthPack_hit_flash.dds"
             }
             VfxEmitterDefinitionData {
                 timeBeforeFirstEmission: f32 = 0.200000003
@@ -22842,7 +22842,7 @@ entries: map[hash,embed] = {
                 }
                 primitive: pointer = VfxPrimitiveMesh {
                     mMesh: embed = VfxMeshDefinitionData {
-                        mSimpleMeshName: string = "ASSETS/Shared/Particles/ARAMHealthPack.PoroKing_9_24.scb"
+                        mSimpleMeshName: string = "ASSETS/Shared/Particles/ARAMHealthPack.scb"
                     }
                 }
                 blendMode: u8 = 3
@@ -23099,7 +23099,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Particles/ARAMHealthPack_4x4_Sparkle.PoroKing_9_24.DDS"
+                texture: string = "ASSETS/Particles/ARAMHealthPack_4x4_Sparkle.DDS"
                 numFrames: u16 = 4
                 texDiv: vec2 = { 2, 2 }
             }
@@ -23349,7 +23349,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Particles/ARAMHealthPack_4x4_Sparkle.PoroKing_9_24.DDS"
+                texture: string = "ASSETS/Particles/ARAMHealthPack_4x4_Sparkle.DDS"
                 numFrames: u16 = 4
                 texDiv: vec2 = { 2, 2 }
             }
@@ -23542,7 +23542,7 @@ entries: map[hash,embed] = {
                             }
                         }
                     }
-                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.PIE_C_9_24.dds"
+                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.dds"
                 }
                 isUniformScale: flag = true
                 isRandomStartFrame: flag = true
@@ -23951,7 +23951,7 @@ entries: map[hash,embed] = {
                             }
                         }
                     }
-                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.PIE_C_9_24.dds"
+                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.dds"
                 }
                 particleIsLocalOrientation: flag = true
                 isRotationEnabled: flag = true
@@ -24305,7 +24305,7 @@ entries: map[hash,embed] = {
                             }
                         }
                     }
-                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.PIE_C_9_24.dds"
+                    erosionMapName: string = "ASSETS/Perks/Styles/Precision/Overheal/Particles/Perks_Overheal_Shield_Burst_Erosion.dds"
                 }
                 disableBackfaceCull: bool = true
                 miscRenderFlags: u8 = 1
@@ -28065,7 +28065,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_hit_flash.PoroKing_9_24.dds"
+                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_hit_flash.dds"
             }
             VfxEmitterDefinitionData {
                 rate: embed = ValueFloat {
@@ -28170,7 +28170,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_hit_flash.PoroKing_9_24.dds"
+                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_hit_flash.dds"
             }
             VfxEmitterDefinitionData {
                 timeBeforeFirstEmission: f32 = 0.200000003
@@ -28321,7 +28321,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_Lightbeams_1x4.PoroKing_9_24.dds"
+                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_Lightbeams_1x4.dds"
                 numFrames: u16 = 4
                 texDiv: vec2 = { 4, 1 }
             }
@@ -28474,7 +28474,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_Lightbeams_1x4.PoroKing_9_24.dds"
+                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_Lightbeams_1x4.dds"
                 numFrames: u16 = 4
                 texDiv: vec2 = { 4, 1 }
             }
@@ -28499,7 +28499,7 @@ entries: map[hash,embed] = {
                 }
                 primitive: pointer = VfxPrimitiveMesh {
                     mMesh: embed = VfxMeshDefinitionData {
-                        mSimpleMeshName: string = "ASSETS/Shared/Particles/ARAMHealthPack.PoroKing_9_24.scb"
+                        mSimpleMeshName: string = "ASSETS/Shared/Particles/ARAMHealthPack.scb"
                     }
                 }
                 blendMode: u8 = 3
@@ -28759,7 +28759,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_4x4_Sparkle.PoroKing_9_24.DDS"
+                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_4x4_Sparkle.DDS"
                 numFrames: u16 = 4
                 texDiv: vec2 = { 2, 2 }
             }
@@ -29009,7 +29009,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_4x4_Sparkle.PoroKing_9_24.DDS"
+                texture: string = "ASSETS/Shared/Particles/ARAMHealthPack_4x4_Sparkle.DDS"
                 numFrames: u16 = 4
                 texDiv: vec2 = { 2, 2 }
             }
@@ -35313,7 +35313,6 @@ entries: map[hash,embed] = {
                 events: list[string] = {
                     "Play_mus_map11_demaciavice2019_spawn"
                     "Play_mus_map11_KDA2020_spawn"
-                    "Play_mus_map11_Sentinels2021_spawn"
                     "Play_mus_map11_starguardian2017_spawn"
                     "Play_mus_map11_starguardian2019_spawn"
                     "Play_mus_map11_starguardian_spawn"
@@ -35890,6 +35889,20 @@ entries: map[hash,embed] = {
         0xc561f8e9: list[hash] = {
             "Items/1035"
             "Items/1039"
+        }
+        0x37792a41: list[hash] = {
+            "Items/2001"
+            "Items/2003"
+            "Items/2010"
+            "Items/2031"
+            "Items/2055"
+            "Items/2403"
+            "Items/2419"
+            "Items/3340"
+            "Items/3363"
+            "Items/3364"
+            "Items/3599"
+            "Items/3600"
         }
         0xc3b3430a: u32 = 11
         0x51a18bc3: hash = "CLASSIC"

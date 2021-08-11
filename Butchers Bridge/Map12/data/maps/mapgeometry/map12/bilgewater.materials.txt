@@ -9206,7 +9206,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_01.NPE_MapsMountain.dds"
+                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_01.dds"
                 uvMode: u8 = 2
                 birthUVOffset: embed = ValueVector2 {
                     constantValue: vec2 = { 1, 1 }
@@ -14252,12 +14252,12 @@ entries: map[hash,embed] = {
                     }
                 }
                 blendMode: u8 = 1
-                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_plane_01.NPE_MapsMountain.dds"
+                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_plane_01.dds"
                 uvMode: u8 = 2
                 birthUvScrollRate: embed = ValueVector2 {
                     constantValue: vec2 = { 0, -0.800000012 }
                 }
-                textureMult: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_plane_Mult_01.NPE_MapsMountain.dds"
+                textureMult: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_plane_Mult_01.dds"
                 birthUvScrollRateMult: embed = ValueVector2 {
                     constantValue: vec2 = { 0, -0.699999988 }
                 }
@@ -14289,11 +14289,11 @@ entries: map[hash,embed] = {
                     constantValue: vec4 = { 1, 1, 1, 0.725993991 }
                 }
                 pass: i16 = 20
-                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_WhiteFalls_01.NPE_MapsMountain.dds"
+                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_WhiteFalls_01.dds"
                 birthUvScrollRate: embed = ValueVector2 {
                     constantValue: vec2 = { 0, -0.400000006 }
                 }
-                textureMult: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_WhiteFalls_Mult_01.NPE_MapsMountain.dds"
+                textureMult: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_WhiteFalls_Mult_01.dds"
                 birthUvScrollRateMult: embed = ValueVector2 {
                     constantValue: vec2 = { 0, -0.600000024 }
                 }
@@ -14723,7 +14723,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_01.NPE_MapsMountain.dds"
+                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_01.dds"
                 uvMode: u8 = 2
                 birthUVOffset: embed = ValueVector2 {
                     constantValue: vec2 = { 1, 1 }
@@ -14920,7 +14920,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_01.NPE_MapsMountain.dds"
+                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_01.dds"
                 uvMode: u8 = 2
                 birthUVOffset: embed = ValueVector2 {
                     constantValue: vec2 = { 1, 1 }
@@ -14955,7 +14955,7 @@ entries: map[hash,embed] = {
                         }
                     }
                 }
-                textureMult: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_Mult_01.NPE_MapsMountain.dds"
+                textureMult: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_Mult_01.dds"
                 birthUvScrollRateMult: embed = ValueVector2 {
                     constantValue: vec2 = { 0.100000001, 0.100000001 }
                 }
@@ -14994,12 +14994,12 @@ entries: map[hash,embed] = {
                     }
                 }
                 alphaRef: u8 = 0
-                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_01.NPE_MapsMountain.dds"
+                texture: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_01.dds"
                 uvMode: u8 = 2
                 birthUvScrollRate: embed = ValueVector2 {
                     constantValue: vec2 = { -0.5, 0 }
                 }
-                textureMult: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_Mult_01.NPE_MapsMountain.dds"
+                textureMult: string = "ASSETS/Shared/Particles/SRU_EastJungle_Waterfall_Swirlsteam_Mult_01.dds"
                 birthUvScrollRateMult: embed = ValueVector2 {
                     constantValue: vec2 = { -0.100000001, 0 }
                 }
