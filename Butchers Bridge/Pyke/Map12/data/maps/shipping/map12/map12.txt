@@ -29091,7 +29091,10 @@ entries: map[hash,embed] = {
         }
     }
     0xc860963a = MapSkin {
-        mMapContainerLink: string = "Maps/MapGeometry/Map12/Base"
+        mMapContainerLink: string = "Maps/MapGeometry/Map12/Bilgewater"
+        mMinimapBackgroundConfig: embed = MinimapBackgroundConfig {
+            mDefaultTextureName: string = "2DLevelMiniMap_Bilgewater.dds"
+        }
         0x92a53e77: list[link] = {
             0xadbc3928
         }
@@ -32884,6 +32887,53 @@ entries: map[hash,embed] = {
                 voiceOver: bool = true
             }
             BankUnit {
+                name: string = "NPC_Map14_VO"
+                bankPath: list[string] = {
+                    "ASSETS/Sounds/Wwise2016/VO/en_US/Shared/NPC_Map14_VO_audio.bnk"
+                    "ASSETS/Sounds/Wwise2016/VO/en_US/Shared/NPC_Map14_VO_events.bnk"
+                    "ASSETS/Sounds/Wwise2016/VO/en_US/Shared/NPC_Map14_VO_audio.wpk"
+                }
+                events: list[string] = {
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_Ambient"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_Browsing"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_Close"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_Open"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenCorki"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenDiana"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenDraven"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenEzreal"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenFizz"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenGangplank"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenHeimerdinger"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenNami"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenNautilus"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenRumble"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenSivir"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenTahmKench"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_OpenUdyr"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Bubbs_Purchase"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_Ambient"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_Browsing"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_Close"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_Open"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenAshe"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenFizz"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenGangplank"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenGragas"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenGraves"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenKarthus"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenMaokai"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenMissFortune"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenNami"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenNautilus"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenReksai"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenTwistedFate"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_OpenTwitch"
+                    "Play_vo_Shopkeeper_Map12_BW_AP_Finn_Purchase"
+                }
+                voiceOver: bool = true
+            }
+            BankUnit {
                 name: string = "Announcer_Global_Female1_VO"
                 bankPath: list[string] = {
                     "ASSETS/Sounds/Wwise2016/VO/en_US/Shared/Announcer_Global_Female1_VO_audio.bnk"
@@ -35283,66 +35333,6 @@ entries: map[hash,embed] = {
                 bankPath: list[string] = {
                     "ASSETS/Sounds/Wwise2016/SFX/Shared/MISC_Eternals_SFX_audio.bnk"
                     "ASSETS/Sounds/Wwise2016/SFX/Shared/MISC_Eternals_SFX_events.bnk"
-                }
-            }
-            BankUnit {
-                name: string = "MISC_Event_SFX"
-                bankPath: list[string] = {
-                    "ASSETS/Sounds/Wwise2016/SFX/Shared/MISC_Event_SFX_audio.bnk"
-                    "ASSETS/Sounds/Wwise2016/SFX/Shared/MISC_Event_SFX_events.bnk"
-                    "ASSETS/Sounds/Wwise2016/SFX/Shared/MISC_Event_SFX_audio.wpk"
-                }
-                events: list[string] = {
-                    "Play_mus_map11_demaciavice2019_spawn"
-                    "Play_mus_map11_KDA2020_spawn"
-                    "Play_mus_map11_starguardian2017_spawn"
-                    "Play_mus_map11_starguardian2019_spawn"
-                    "Play_mus_map11_starguardian_spawn"
-                    "Play_mus_map11_Tournaments_spawn"
-                    "Play_mus_map11_Worlds2020_spawn"
-                    "Play_sfx_homeguard_idahotb_loop"
-                    "Play_sfx_PopStar2018Spawn_oba"
-                    "Play_sfx_RainbowSpawn_oba"
-                    "Play_sfx_SnowdownSpawn_oba"
-                    "Play_sfx_SnowdownSpawn_obd"
-                    "Play_sfx_SOG_SpawnIn"
-                    "Play_sfx_Spawn_10Year_confetti2D"
-                    "Play_sfx_Spawn_10year_spawnin3D"
-                    "Play_sfx_spawn_ba_defiance"
-                    "Play_sfx_spawn_ba_devotion"
-                    "Play_sfx_spawn_ba_insight"
-                    "Play_sfx_spawn_ba_lethal"
-                    "Stop_sfx_homeguard_idahotb_loop"
-                }
-            }
-            BankUnit {
-                name: string = "ENV_Global_Emitters_SFX"
-                bankPath: list[string] = {
-                    "ASSETS/Sounds/Wwise2016/SFX/Shared/ENV_Global_Emitters_SFX_audio.bnk"
-                    "ASSETS/Sounds/Wwise2016/SFX/Shared/ENV_Global_Emitters_SFX_events.bnk"
-                }
-                events: list[string] = {
-                    "Play_mus_map11_demaciavice2019_spawn"
-                    "Play_mus_map11_KDA2020_spawn"
-                    "Play_mus_map11_Sentinels2021_spawn"
-                    "Play_mus_map11_starguardian2017_spawn"
-                    "Play_mus_map11_starguardian2019_spawn"
-                    "Play_mus_map11_starguardian_spawn"
-                    "Play_mus_map11_Tournaments_spawn"
-                    "Play_mus_map11_Worlds2020_spawn"
-                    "Play_sfx_homeguard_idahotb_loop"
-                    "Play_sfx_PopStar2018Spawn_oba"
-                    "Play_sfx_RainbowSpawn_oba"
-                    "Play_sfx_SnowdownSpawn_oba"
-                    "Play_sfx_SnowdownSpawn_obd"
-                    "Play_sfx_SOG_SpawnIn"
-                    "Play_sfx_Spawn_10Year_confetti2D"
-                    "Play_sfx_Spawn_10year_spawnin3D"
-                    "Play_sfx_spawn_ba_defiance"
-                    "Play_sfx_spawn_ba_devotion"
-                    "Play_sfx_spawn_ba_insight"
-                    "Play_sfx_spawn_ba_lethal"
-                    "Stop_sfx_homeguard_idahotb_loop"
                 }
             }
         }
