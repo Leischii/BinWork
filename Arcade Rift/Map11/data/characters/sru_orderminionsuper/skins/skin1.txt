@@ -3,7 +3,7 @@ type: string = "PROP"
 version: u32 = 3
 linked: list[string] = {
     "DATA/Characters/SRU_OrderMinionSuper/SRU_OrderMinionSuper.bin"
-    "DATA/Characters/SRU_OrderMinionSuper/Animations/Skin0.bin"
+    "DATA/Characters/SRU_OrderMinionSuper/Animations/Skin12.bin"
 }
 entries: map[hash,embed] = {
     "Characters/SRU_OrderMinionSuper/Skins/Skin1" = SkinCharacterDataProperties {
@@ -22,13 +22,13 @@ entries: map[hash,embed] = {
             }
         }
         skinAnimationProperties: embed = skinAnimationProperties {
-            animationGraphData: link = "Characters/SRU_OrderMinionSuper/Animations/Skin0"
+            animationGraphData: link = "Characters/SRU_OrderMinionSuper/Animations/Skin12"
         }
         skinMeshProperties: embed = SkinMeshDataProperties {
-            skeleton: string = "ASSETS/Characters/SRU_OrderMinionSuper/skins/base/Blue_Minion_Superminion.skl"
-            simpleSkin: string = "ASSETS/Characters/SRU_OrderMinionSuper/skins/base/Blue_Minion_Superminion.skn"
+            skeleton: string = "ASSETS/Characters/SRU_OrderMinionSuper/skins/Skin13/SRU_OrderMinionSuper_Arcade.skl"
+            simpleSkin: string = "ASSETS/Characters/SRU_OrderMinionSuper/skins/Skin13/SRU_OrderMinionSuper_Arcade.skn"
             0xd62df07c: bool = true
-            texture: string = "ASSETS/Characters/SRU_OrderMinionSuper/skins/base/blue_superminion_TX_CM_Red.dds"
+            texture: string = "ASSETS/Characters/SRU_OrderMinionSuper/skins/Skin13/Minion_Arcade_Super_Chaos_TX_CM.dds"
             skinScale: f32 = 1.04999995
             selfIllumination: f32 = 0.600000024
         }
