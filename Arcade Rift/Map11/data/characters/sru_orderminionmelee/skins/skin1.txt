@@ -25,10 +25,10 @@ entries: map[hash,embed] = {
             animationGraphData: link = "Characters/SRU_OrderMinionMelee/Animations/Skin0"
         }
         skinMeshProperties: embed = SkinMeshDataProperties {
-            skeleton: string = "ASSETS/Characters/SRU_OrderMinionMelee/Skins/Base/Order_Minion_Melee.skl"
-            simpleSkin: string = "ASSETS/Characters/SRU_OrderMinionMelee/Skins/Base/Order_Minion_Melee.skn"
+            skeleton: string = "ASSETS/Characters/SRU_OrderMinionMelee/Skins/Skin13/SRU_OrderMinionMelee_Arcade.skl"
+            simpleSkin: string = "ASSETS/Characters/SRU_OrderMinionMelee/Skins/Skin13/SRU_OrderMinionMelee_Arcade.skn"
             0xd62df07c: bool = true
-            texture: string = "ASSETS/Characters/SRU_OrderMinionMelee/Skins/Base/OrderMinion_Melee_TX_CM_Red.dds"
+            texture: string = "ASSETS/Characters/SRU_OrderMinionMelee/Skins/Skin13/Minion_Arcade_Melee_Chaos_TX_CM.dds"
             skinScale: f32 = 0.699999988
             selfIllumination: f32 = 0.600000024
         }
