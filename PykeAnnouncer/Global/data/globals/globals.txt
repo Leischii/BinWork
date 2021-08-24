@@ -9427,6 +9427,9 @@ entries: map[hash,embed] = {
             "MapID(11)?LevelScriptFile(LevelScript_SRX.lua)"
             "MapID(90)?NeutralMinionSpawnScript(NeutralMinionSpawn_SRX.lua)"
             "MapID(90)?LevelScriptFile(LevelScript_SRX.lua)"
+            "MapID(11)?AnnouncerVoice(Pyke)"
+            "MapID(11)?ShowCustomAnnouncerOption(1)"
+            "MapID(11)?CustomAnnouncerMessage(game_message_PykeAnnouncerEnabled)"
         }
     }
     0x2f69eb0d = GameMutatorExpansions {
@@ -9975,6 +9978,9 @@ entries: map[hash,embed] = {
             "MapID(11)?NeutralMinionSpawnScript(NeutralMinionSpawn_SRX.lua)"
             "MapID(11)?LevelScriptFile(LevelScript_SRX.lua)"
             "MapID(11)?LoadAllVisibilityFlags"
+            "MapID(11)?AnnouncerVoice(Pyke)"
+            "MapID(11)?ShowCustomAnnouncerOption(1)"
+            "MapID(11)?CustomAnnouncerMessage(game_message_PykeAnnouncerEnabled)"
         }
     }
     0xbe1d455f = GameMutatorExpansions {
