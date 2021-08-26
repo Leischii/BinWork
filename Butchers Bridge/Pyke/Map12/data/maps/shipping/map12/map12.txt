@@ -32273,12 +32273,6 @@ entries: map[hash,embed] = {
         mGameplayConfig: link = 0xa6506f8a
         mSurrenderSettings: link = 0x748598d2
         0x6941e612: link = 0xa3c25554
-        0x70b29c3d: list[link] = {
-            0x584ac7e3
-            0x7ef3c258
-            0xb5afcfe7
-            0x4a243b3c
-        }
         mLoadingScreenBackground: string = "ASSETS/UX/LoadingScreen/HABackground.dds"
     }
     0x73d381b7 = GameModeMapData {
@@ -32332,12 +32326,6 @@ entries: map[hash,embed] = {
         mGameplayConfig: link = 0xa6506f8a
         mSurrenderSettings: link = 0x748598d2
         0x6941e612: link = 0xa3c25554
-        0x70b29c3d: list[link] = {
-            0x584ac7e3
-            0x7ef3c258
-            0xb5afcfe7
-            0x4a243b3c
-        }
         mLoadingScreenBackground: string = "ASSETS/LoadingScreen/FirstBloodSplash.dds"
     }
     0xb42c9063 = GameModeMapData {
@@ -32395,12 +32383,6 @@ entries: map[hash,embed] = {
         mGameplayConfig: link = 0xa6506f8a
         mSurrenderSettings: link = 0x748598d2
         0x6941e612: link = 0xa3c25554
-        0x70b29c3d: list[link] = {
-            0x584ac7e3
-            0x7ef3c258
-            0xb5afcfe7
-            0x4a243b3c
-        }
         mLoadingScreenBackground: string = "ASSETS/LoadingScreen/KingPoroBackground.dds"
     }
     0x41e538c0 = 0x0d6825c4 {
@@ -36801,23 +36783,6 @@ entries: map[hash,embed] = {
         0xdb7491ec: hash = 0x02107614
         0xdc74937f: hash = 0x49dc1677
     }
-    0x4a243b3c = HudLoadingScreenWidgetPing {
-        mPingThresholdGreen: u32 = 150
-        mPingThresholdYellow: u32 = 250
-        mPingThresholdOrange: u32 = 350
-        mPingThresholdRed: u32 = 10000
-        mSceneName: string = "LS_Ping"
-    }
-    0x584ac7e3 = HudLoadingScreenWidgetCarousel {
-        mCarouselData: link = 0xe32f16d4
-        mSceneName: string = "LS_Default"
-    }
-    0xb5afcfe7 = HudLoadingScreenWidgetProgressBar {
-        mSceneName: string = "LS_Default"
-    }
-    0xe32f16d4 = HudLoadingScreenCarouselData {
-        image: string = "ASSETS/UX/LoadingScreen/Carousel/Red_Brambleback_Background.dds"
-    }
     0x5a7e4017 = GlobalStatsUIData {
         mStatUIData: map[u8,embed] = {
             0 = StatUIData {
@@ -37022,12 +36987,6 @@ entries: map[hash,embed] = {
         0x4ac09eef: string = "%i:scaleLevel%"
         0xf04c21cd: u8 = 6
         0xa844caca: u8 = 4
-    }
-    0x7ef3c258 = HudLoadingScreenWidgetPlayers {
-        mCardConfig: embed = PlayerCardWidgetConfig {
-            0x7b9b52c3: u32 = 511
-        }
-        mSceneName: string = "LS_Default"
     }
     0x76b22690 = GameMutatorExpansions {
         mExpandedMutator: string = "Event_Bilgewater"
