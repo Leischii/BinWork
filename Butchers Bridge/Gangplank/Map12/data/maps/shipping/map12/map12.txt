@@ -36959,6 +36959,7 @@ entries: map[hash,embed] = {
             17 = StatUIData {
                 mName: string = "Omnivamp"
                 mAbbreviation: string = "OV"
+                mDisplayType: u8 = 2
                 mIconKey: string = "%i:scaleSV%"
                 mScalingTagKey: string = "scaleSV"
             }
