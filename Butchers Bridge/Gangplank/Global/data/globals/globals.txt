@@ -10314,7 +10314,6 @@ entries: map[hash,embed] = {
         mMutators: list2[string] = {
             "MapID(11)?SRU_Baron_SkinID(2)"
             "MapID(11)?MapObjectESportTeamCustomization(1)"
-            "MapID(11)?MapSkinOptionDisableWorlds(1)"
             "MapID(11)?MapSkinName(Worlds_SRX)"
         }
     }
@@ -17036,6 +17035,7 @@ entries: map[hash,embed] = {
             0x3e3c2065: bool = true
             0x768400a9: bool = true
             0x9cfc57ba: bool = true
+            0x8dc6f20a: bool = true
             0xab676340: bool = true
         }
         mGameplayToggles: embed = GameplayFeatureToggles {

@@ -444,7 +444,7 @@ entries: map[hash,embed] = {
         }
     }
     0x012578c1 = FeatureAudioDataProperties {
-        bankUnits: list[embed] = {
+        bankUnits: list2[embed] = {
             BankUnit {
                 name: string = "Announcer_Map12_Female1_KingPoro_VO"
                 bankPath: list[string] = {
@@ -31791,7 +31791,7 @@ entries: map[hash,embed] = {
         mScalingPercentCap: f32 = 1.25
     }
     0x3d1a56c6 = FeatureAudioDataProperties {
-        bankUnits: list[embed] = {
+        bankUnits: list2[embed] = {
             BankUnit {
                 name: string = "MODE_Slime2018_SFX"
                 bankPath: list[string] = {
@@ -32473,7 +32473,7 @@ entries: map[hash,embed] = {
         feature: hash = "Default"
     }
     0xa8ad0e4a = FeatureAudioDataProperties {
-        bankUnits: list[embed] = {
+        bankUnits: list2[embed] = {
             BankUnit {
                 name: string = "Announcer_Tutorial"
                 bankPath: list[string] = {
@@ -32716,7 +32716,7 @@ entries: map[hash,embed] = {
         feature: hash = "TUTORIAL"
     }
     0xaeb17d00 = FeatureAudioDataProperties {
-        bankUnits: list[embed] = {
+        bankUnits: list2[embed] = {
             BankUnit {
                 name: string = "Announcer_Global_KaynRhaast_VO"
                 bankPath: list[string] = {
@@ -32825,7 +32825,7 @@ entries: map[hash,embed] = {
     }
     0xb7d38bf6 = MapAudioDataProperties {
         0x84ff70c0: link = "Maps/Shipping/Common/Audio"
-        bankUnits: list[embed] = {
+        bankUnits: list2[embed] = {
             BankUnit {
                 name: string = "NPC_Map12_VO"
                 bankPath: list[string] = {
@@ -33313,7 +33313,7 @@ entries: map[hash,embed] = {
         }
     }
     0xee7a7da2 = FeatureAudioDataProperties {
-        bankUnits: list[embed] = {
+        bankUnits: list2[embed] = {
             BankUnit {
                 name: string = "ENV_Map14_SFX"
                 bankPath: list[string] = {
@@ -33842,7 +33842,7 @@ entries: map[hash,embed] = {
     }
     0xb874104c = GameModeConstantsGroup {}
     "Maps/Shipping/Common/Audio" = MapAudioDataProperties {
-        bankUnits: list[embed] = {
+        bankUnits: list2[embed] = {
             BankUnit {
                 name: string = "Init"
                 bankPath: list[string] = {
