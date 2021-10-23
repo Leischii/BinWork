@@ -3965,7 +3965,7 @@ entries: map[hash,embed] = {
                     }
                 }
                 texture: string = "ASSETS/Shared/Particles/SRU_OrderTurret1_Rubble_dustCloud.dds"
-                textureMult: string = "ASSETS/Shared/Particles/SRU_dustCloud_mult.dds"
+                textureMult: string = "ASSETS/Shared/Particles/SRU_dustCloud_mult.Structure_Assetization.dds"
                 birthUVOffsetMult: embed = ValueVector2 {
                     constantValue: vec2 = { 1, 1 }
                     dynamics: pointer = VfxAnimatedVector2fVariableData {
@@ -8319,7 +8319,7 @@ entries: map[hash,embed] = {
                     }
                 }
                 texture: string = "ASSETS/Shared/Particles/SRU_OrderTurret1_Rubble_dustCloud.dds"
-                textureMult: string = "ASSETS/Shared/Particles/SRU_dustCloud_mult.dds"
+                textureMult: string = "ASSETS/Shared/Particles/SRU_dustCloud_mult.Structure_Assetization.dds"
                 birthUVOffsetMult: embed = ValueVector2 {
                     constantValue: vec2 = { 1, 1 }
                     dynamics: pointer = VfxAnimatedVector2fVariableData {
